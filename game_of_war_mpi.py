@@ -1,3 +1,6 @@
+# Para ejecutar en windows: mpiexec /np 5 python game_of_war_mpi.py
+# Para ejecutar en linux: mpirun -np 5 python game_of_war_mpi.py
+
 import numpy as np # Se importa numpuy
 import matplotlib.pyplot as plt # Se importa matplotlib
 from matplotlib import colors # Se importa colors
